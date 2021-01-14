@@ -5,6 +5,25 @@
 In this study, the changes in the water surface area of Akşehir Lake in 1997 and 2013  were analyzed and interpreted with remote sensing data. For this, images of two years were obtained from Landsat 5 TM and Landsat 8 OLI / TIRS satellites. NDWI were used to monitor the changes in water areas during the analysis phase. NDWI was applied and the images dated 1997 and 2013 were subtracted from each other and the changes between the years were tried to be monitored.
 
 ```Python
+import rasterio
+from rasterio import plot
+import matplotlib.pyplot as plt
+import numpy as np
+%matplotlib inline
+
+import os
+os.listdir("C:/Users/w10/Desktop/geo468E/water")
+
+#green 2013
+band3_2013 = rasterio.open("C:/Users/w10/Desktop/geo468E/water/subset_0_of_LC08_L1TP_178033_20130902_20170502_01_T1_resampled_green.tif")
+#nır 2013
+band5_2013 = rasterio.open("C:/Users/w10/Desktop/geo468E/water/subset_0_of_LC08_L1TP_178033_20130902_20170502_01_T1_resampled_near_infrared.tif")
+#green 1997
+band2_1997 = rasterio.open("C:/Users/w10/Desktop/geo468E/water/subset_0_of_LT05_L1TP_178033_19970720_20180209_01_T1_radiance_2.tif")
+#nır 1997
+band4_1997 = rasterio.open("C:/Users/w10/Desktop/geo468E/water/subset_0_of_LT05_L1TP_178033_19970720_20180209_01_T1_radiance_4.tif")
+
+
 #plot band 3 2013
 plot.show(band3_2013)
 #plot band 5 2013
