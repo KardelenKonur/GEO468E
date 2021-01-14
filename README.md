@@ -1,4 +1,2 @@
-
 # SPECIAL TOPICS IN REMOTE SENSING
-![İTÜ LOGO](İTÜ LOGO.png)
-## 
+![ITU LOGO](İTÜ LOGO.png) 
