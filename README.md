@@ -124,4 +124,4 @@ ndwi_difference=(plot.show(ndwi1997[:1000,:1000]-ndwi2013[:1000,:1000]))
 ### NDWI images of 1997 and 2013
 ![ndwı](ndwı.JPG)
 ### NDWI Differences between 1997 and 2013
-![ndwı dif](ndwı dif.JPG)
+
