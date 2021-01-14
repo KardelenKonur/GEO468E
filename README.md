@@ -1,3 +1,3 @@
-![İTÜ LOGO](İTÜ LOGO.png)
+![itü_logo](İTÜ LOGO.png)
 # SPECIAL TOPICS IN REMOTE SENSING
 
