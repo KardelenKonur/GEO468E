@@ -1,4 +1,4 @@
 ![LOGO](İTÜ LOGO.jpg)
-(İTÜ LOGO.jpg)
+- ![İTÜ LOGO](İTÜ LOGO.jpg)
 # SPECIAL TOPICS IN REMOTE SENSING
 
