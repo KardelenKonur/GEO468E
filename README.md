@@ -118,10 +118,10 @@ fig = plt.figure(figsize=(18,12))
 ndwi_difference=(plot.show(ndwi1997[:1000,:1000]-ndwi2013[:1000,:1000]))
 ```
 ### Band 2 and Band 4 of 1997
--![1997](1997.JPG)
+![1997](1997.JPG)
 ### Band 3 and Band 5 of 2013
 ![2013](2013.JPG)
 ### NDWI images of 1997 and 2013
 ![ndwı](ndwı.JPG)
 ### NDWI Differences between 1997 and 2013
-
+![NDWIDifference](NDWIDifference.JPG)
