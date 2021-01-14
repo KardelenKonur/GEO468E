@@ -1,2 +1,2 @@
 # SPECIAL TOPICS IN REMOTE SENSING
-![itulogo](itulogo.png)
+![itulogo](itulogo.jpeg)
