@@ -121,3 +121,5 @@ ndwi_difference=(plot.show(ndwi1997[:1000,:1000]-ndwi2013[:1000,:1000]))
 -![1997](1997.JPG)
 ### Band 3 and Band 5 of 2013
 ![2013](2013.JPG)
+NDWI images of 1997 and 2013
+![ndwı](ndwı.JPG)
